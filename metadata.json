@@ -3,7 +3,7 @@
     "symbol": "SRBan",                                                                                                                                    
     "description": "Romania's first educational virtual currency, developed on Solana by Scoala Romano-Britanica. Teaching students practical financial   
   and entrepreneurial concepts through hands-on learning.",                                                                                               
-    "image": "https://srban.scoalabritanica.ro/img/srban.svg",
+    "image": "https://raw.githubusercontent.com/scoalabritanica/srban/refs/heads/main/srban.png",
     "external_url": "https://srban.scoalabritanica.ro/",                                                                                                  
     "attributes": [                                                                                                                                       
       {
